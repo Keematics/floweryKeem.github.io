@@ -1,4 +1,4 @@
-# E-Commerce Website 🛍️  
+# A Flower Shop Website 🛍️  
 *A responsive flower store built with HTML, SCSS (BEM), and vanilla JavaScript.*  
 
 **Live Demo**: [View Here](https://flowery-keem.netlify.app/) | **Portfolio**: [Case Study On My Portfolio](https://www.keematics.com/projects)  
@@ -19,4 +19,4 @@
 ## 🚀 Getting Started  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yourusername/ecommerce-frontend.git
+   git clone https://github.com/Keematics/floweryKeem.github.io.git
